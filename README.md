@@ -1,6 +1,8 @@
-🌐 Global Software & IT Solutions Website
+#🌐 Global Software & IT Solutions Website
 
 A modern enterprise-grade website for a global IT company offering SaaS platforms, enterprise software development, cloud solutions, cybersecurity, and AI-powered consulting. Built with React + TypeScript + Vite + TailwindCSS, this website delivers a scalable, performant, and responsive digital presence.
+
+---
 
 ✨ Features
 
@@ -19,6 +21,8 @@ A modern enterprise-grade website for a global IT company offering SaaS platform
 🧩 Modular Architecture: Reusable components for rapid scaling and updates
 
 📰 Insights Hub: Blog-ready structure for articles, news, and whitepapers
+
+---
 
 🖥️ Demo
 
@@ -39,6 +43,8 @@ Partners & Certifications: Display AWS, Microsoft, Google Cloud, ISO badges
 Careers: Highlight global opportunities and culture
 
 Contact: Office locations, inquiry form, and global map integration
+
+---
 
 🚀 Quick Start
 Prerequisites
@@ -64,6 +70,8 @@ npm run dev
 Access at:
 
 Frontend: http://localhost:5173
+
+---
 
 🏗️ Project Structure
 global-it-company/
@@ -107,6 +115,8 @@ global-it-company/
 ├── README.md
 └── .gitignore
 
+---
+
 🔧 Configuration
 
 Branding: Replace assets in /src/assets/ with company-branded visuals
@@ -116,6 +126,8 @@ Navigation: Update Header.tsx and Footer.tsx for menu items and links
 Theme: Modify tailwind.config.ts for corporate color palette
 
 Content: Edit files in /pages/ for About, Solutions, Industries, etc.
+
+---
 
 🌐 Deployment
 
@@ -136,6 +148,8 @@ RUN npm install && npm run build
 EXPOSE 3000
 CMD ["npm", "run", "preview"]
 
+---
+
 🛠️ Development
 Running in Development Mode
 npm run dev
@@ -145,6 +159,8 @@ npm run build
 
 Preview Production Build
 npm run preview
+
+---
 
 🔒 Security Practices
 
@@ -157,6 +173,8 @@ CSP headers for security
 Sanitized user inputs
 
 CORS configuration
+
+---
 
 📊 Roadmap
 
@@ -182,9 +200,13 @@ Push (git push origin feature/amazing-feature)
 
 Open a PR
 
+---
+
 📝 License
 
 This project is licensed under the MIT License – see LICENSE for details.
+
+---
 
 📞 Support
 
@@ -193,6 +215,8 @@ Issues: GitHub Issues
 Discussions: GitHub Discussions
 
 Email: shabeershah4777@gmail.com
+
+---
 
 🔄 Changelog
 
@@ -207,4 +231,5 @@ v1.0.0 (Initial Release)
 ✅ Enterprise UI components
 
 ⭐ Star this repo if you find it helpful!
+
 Made with 💻 by [Syed Shabeer Abbas Shah]
